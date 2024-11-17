@@ -38,6 +38,7 @@ extra:
       link: https://github.com/miguelnto
     - icon: fontawesome/brands/discord
       link: https://discord.gg/M7FURN5R88
+  generator: false
 
 markdown_extensions:
   - pymdownx.highlight:

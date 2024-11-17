@@ -1,6 +1,6 @@
 # Keys
 
-Todos os BOTS do projeto HyperBots são inoperáveis sem uma chave de ativação (key). A key é exatamente o que vai permitir o uso do BOT em um servidor específico. Confira mais informação sobre as keys nesta página.
+Todos os BOTS do projeto HyperBots são inoperáveis sem uma chave de ativação (key). A key é exatamente o que vai permitir o uso do BOT em seu servidor. Confira mais informação sobre as keys nesta página.
 
 ## Importante
 
